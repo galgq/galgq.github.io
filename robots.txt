@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://galgq.github.io/sitemap.xml
